@@ -1,0 +1,23 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "node-markov",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgaAlessia/Node-Markov.git"
+  },
+  "author": "olga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlgaAlessia/Node-Markov/issues"
+  },
+  "homepage": "https://github.com/OlgaAlessia/Node-Markov#readme",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "process": "^0.11.10"
+  }
+}
